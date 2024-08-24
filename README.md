@@ -7,7 +7,7 @@ Ex.: Calculadora.java / MinhaCalculadora.java / MinhaCalculadoraCientifica.java
 2. **Classe:** a classe deve possuir o mesmo nome do arquivo.
 Ex.:
 |arquivo|classe|
-|-|-|
+| :---: | :---: |
 |Calculadora.java|`public class Calculadora{}`|
 
 3. **Variável:** toda variável se inicia com letra minuscula, sendo composta as outras palavras se inciam com maiscula(o nome dessa prática se chama camelCase).
@@ -24,7 +24,7 @@ Ex.: `ano` / `anoDeNascimento`
 ## Declarando variáveis e métodos
 1. Variáveis
 |dados primitivos|dados não primitivos|
-|-|-|
+| :---: | :---: |
 |`byte`|`String`|
 |`short`|`Arrays`|
 |`int`|`Classes`|
@@ -68,6 +68,7 @@ Ex.: `public static int somar (int numeroUm, int numeroDois)`
 ```
 ## Organizando arquivos
 A medida que o sistema evolui, surgem novos arquivos na estrutura. Isso exije uma organização em pacotes(packages).
+![Screenshot_2](https://github.com/user-attachments/assets/3927eeb9-c5ab-4807-a358-941b810ee975)
 
 ## Java Beans
 A linguagem JAVA sugere através de convenções, formas de escrita universal para nossas classes, atributos, métodos e pacotes.
