@@ -6,6 +6,7 @@ Ex.: Calculadora.java / MinhaCalculadora.java / MinhaCalculadoraCientifica.java
 
 2. **Classe:** a classe deve possuir o mesmo nome do arquivo.
 Ex.:
+
 |arquivo|classe|
 | :---: | :---: |
 |Calculadora.java|`public class Calculadora{}`|
@@ -23,6 +24,7 @@ Ex.: `ano` / `anoDeNascimento`
 
 ## Declarando variáveis e métodos
 1. Variáveis
+   
 |dados primitivos|dados não primitivos|
 | :---: | :---: |
 |`byte`|`String`|
